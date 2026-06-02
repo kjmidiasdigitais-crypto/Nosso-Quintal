@@ -2,13 +2,13 @@ import React, { useState } from "react";
 
 
 const BEACH_ITEMS = [
-  { id: 1, name: "Coca-Cola", price: 6, emoji: "🥤", category: "Bebida" },
+  { id: 1, name: "Coca-Cola", price: 8, emoji: "🥤", category: "Bebida" },
   { id: 2, name: "Água", price: 3, emoji: "💧", category: "Bebida" },
   { id: 3, name: "Guaraná", price: 6, emoji: "🥤", category: "Bebida" },
   { id: 4, name: "Cerveja", price: 7, emoji: "🍺", category: "Bebida" },
   { id: 5, name: "Suco", price: 8, emoji: "🧃", category: "Bebida" },
   { id: 6, name: "Porção de Fritas", price: 18, emoji: "🍟", category: "Porção" },
-  { id: 7, name: "Porção de Batata Frita", price: 22, emoji: "🥔", category: "Porção" },
+  { id: 7, name: "Porção de Batata Frita", price: 70, emoji: "🥔", category: "Porção" },
   { id: 8, name: "Espetinho", price: 10, emoji: "🍢", category: "Porção" },
   { id: 9, name: "Milho", price: 8, emoji: "🌽", category: "Porção" },
   { id: 10, name: "Queijo Coalho", price: 8, emoji: "🧀", category: "Porção" },
